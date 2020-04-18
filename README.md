@@ -55,4 +55,4 @@ $(document).ready(function () {
 **加粗**
 ~~删除线~~
 ---
-[web-hw](https://web-hw.github.io "Harvey的博客")
+[web-hw](https://web-hw.github.io?_blank "Harvey的博客")
