@@ -88,4 +88,6 @@ abc|bcd|cde
 abc|bcd|cde
 abc|bcd|cde   
 
-![test](https://pics5.baidu.com/feed/241f95cad1c8a786ae69afac9c3c413b71cf5089.jpeg?token=57cffc42bb824e911d99e9c1cd35dfa7 "test")
+![img](https://pics5.baidu.com/feed/241f95cad1c8a786ae69afac9c3c413b71cf5089.jpeg?token=57cffc42bb824e911d99e9c1cd35dfa7 "test")   
+
+![img1](https://github.com/web-hw/AMS/blob/master/public/images/ic_baofei_n.png "test")
