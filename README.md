@@ -60,10 +60,29 @@ $(document).ready(function () {
 ---
 <a href="https://web-hw.github.io" target="_blank">web-hw</a>
 
-#表格
+# 表格
 |name|age|sex|
 |:-|:-:|-:|
 |Harvey|23|男|
 |Jim|25|女|   
+
+//例子一
+|123|234|345|
+|:-|:-:|-:|
+|abc|bcd|cde|
+|abc|bcd|cde|
+|abc|bcd|cde|
+//例子二
+|123|234|345|
+|:---|:---:|---:|
+|abc|bcd|cde|
+|abc|bcd|cde|
+|abc|bcd|cde|
+//例子三
+123|234|345
+:-|:-:|-:
+abc|bcd|cde
+abc|bcd|cde
+abc|bcd|cde
 
 ![test](https://pics5.baidu.com/feed/241f95cad1c8a786ae69afac9c3c413b71cf5089.jpeg?token=57cffc42bb824e911d99e9c1cd35dfa7 "test")
