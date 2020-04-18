@@ -59,3 +59,10 @@ $(document).ready(function () {
 [web-hw](https://web-hw.github.io?_blank "Harvey的博客")
 ---
 <a href="https://web-hw.github.io" target="_blank">web-hw</a>
+
+#表格
+name|age|sex
+Harvey|23|男
+Jim|25|女   
+
+![test](https://github.com/web-hw/AMS/blob/master/public/images/ic_baofei_n.png "test")
