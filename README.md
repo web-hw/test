@@ -62,6 +62,7 @@ $(document).ready(function () {
 
 #±í¸ñ
 |name|age|sex|
+|:-|:-:|-:|
 |Harvey|23|ÄÐ|
 |Jim|25|Å®|   
 
