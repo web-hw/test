@@ -61,8 +61,8 @@ $(document).ready(function () {
 <a href="https://web-hw.github.io" target="_blank">web-hw</a>
 
 #表格
-name|age|sex
-Harvey|23|男
-Jim|25|女   
+|name|age|sex|
+|Harvey|23|男|
+|Jim|25|女|   
 
-![test](https://github.com/web-hw/AMS/blob/master/public/images/ic_baofei_n.png "test")
+![test](https://pics5.baidu.com/feed/241f95cad1c8a786ae69afac9c3c413b71cf5089.jpeg?token=57cffc42bb824e911d99e9c1cd35dfa7 "test")
