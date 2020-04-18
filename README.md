@@ -1,6 +1,6 @@
 # test
 test README
-```
+```javascript
 {
   "name": "news",
   "version": "0.1.0",
@@ -39,13 +39,18 @@ test README
   }
 }
 
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+
 ```
 + NO.1
 >这是第一个
 + NO.2
 >这是第二个
 + NO.3
->这是第三个
+>这是第三个  
+
 *倾斜*
 **加粗**
 ~~删除线~~
