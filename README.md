@@ -55,4 +55,11 @@ $(document).ready(function () {
 **加粗**
 ~~删除线~~
 ---
+
 [web-hw](https://web-hw.github.io?_blank "Harvey的博客")
+//js
+var aTagArr = [].slice.apply(document.getElementsByTagName("a"));
+
+aTagArr.forEach(function (e, i) {
+  e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
+});
